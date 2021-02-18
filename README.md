@@ -12,8 +12,8 @@ of DNA sequences must be equal or less than 100.
 **Input:** A text file whose first line is an integer k following by a set of DNA sequences of the
 same length.
 
-**Output:** A text file containing the k-mer pattern that minimizes Total distance(pattern,
-DNA) over all k-mers.
+**Output:** A text file containing the k-mer pattern that minimizes **Total distance(pattern,
+DNA)** over all k-mers.
 
 ### Psuedocode
 ```
